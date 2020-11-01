@@ -6,7 +6,8 @@ After we have helped Steve with analyzing 12 stocks performance for 2017 and 201
 
 
 ## Results
-
+The result comparison of execution time for 2017 stocks analysis between the original code and refactored code
+![](resources/AllStocksAnalysis2017.PNG) ![](resources/VBA_Challenge_2017.PNG)
 
 
 ## Summary
